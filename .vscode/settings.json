@@ -1,0 +1,9 @@
+{
+    "editor.renderWhitespace": "all",
+    "[plaintext]": {
+        "editor.unicodeHighlight.invisibleCharacters": true
+    },
+    "[markdown]": {
+        "editor.unicodeHighlight.invisibleCharacters": true
+    }
+}
