@@ -82,7 +82,7 @@ h1 {
 }
 .hero-text p {
   font-size:1.1rem;
-  line-height:1.3rem;
+  line-height:1.4rem;
   color:var(--color1);
   font-weight:400;
   padding:0;
@@ -127,7 +127,7 @@ aside {
 .testimonials article {
   background: var(--color4);
   border-radius:0.5rem;
-  padding: 2rem;
+  padding: 2.3rem 2rem 2.1rem 2rem;
 }
 
 .testimonial-autor {
@@ -147,14 +147,14 @@ aside {
 }
 .testimonial-autor h2 {
   color: white;
-  font-weight:700;
-  font-size:0.938rem;
+  font-weight:500;
+  font-size:1rem;
   line-height:1.5rem;
 }
 .testimonial-autor p {
   color: var(--color3);
-  font-weight:700;
-  font-size:0.938rem;
+  font-weight:500;
+  font-size:1rem;
   line-height:1.2rem;
 }
 .testimonials .quote {
